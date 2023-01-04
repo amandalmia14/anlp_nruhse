@@ -17,7 +17,7 @@ docutils==0.14
 entrypoints==0.3
 enum34==1.1.6
 funcsigs==1.0.2
-future==0.17.1
+future
 gast==0.2.2
 gensim==3.1.0
 google-pasta==0.1.7
