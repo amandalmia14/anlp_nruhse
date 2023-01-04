@@ -33,10 +33,7 @@ jmespath==0.9.4
 joblib==0.13.2
 jsondatabase==0.1.7
 jsonschema==3.0.1
-jupyter==1.0.0
-jupyter-client==5.2.4
-jupyter-console==6.0.0
-jupyter-core==4.5.0
+jupyter
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
